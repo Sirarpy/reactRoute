@@ -1,1 +1,0 @@
-{"version":3,"sources":["/home/siv/projects/reactrouter/src/index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,YAAa,CACb,sBACF,CACA,QACE,SACF","file":"main.a13e3859.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 2rem;\n  font-family: sans-serif;\n}\n.active{\n  color:red;\n}"]}
